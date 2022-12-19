@@ -13,7 +13,7 @@
     }
 	$query=mysqli_query($koneksi,$sql);
 	// var_dump($sql);
-    // die;
+    
   
     
     if($query){
